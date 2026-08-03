@@ -7,3 +7,7 @@ name = "mona"
 print(name)
 
 print(len(input("what is my name?")))
+
+username = input("what is your name?")
+length = len(username)
+print(length)
