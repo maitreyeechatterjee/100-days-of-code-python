@@ -6,7 +6,11 @@
 
 
 
-#NOW TO GET INPUTS FROM USERS USE THE INPUT FUNCTION ()
-print("Welcome to the Band Name Genrator") 
-city = input("Which city did you grow up in?")
+# print("Welcome to the Band Name Generator")
+# city = input("Which city did you grow up in?\n")
+# pet = input("what is the name of your pet?\n")
+# print ("your band name could be : " + city + " " + pet)
 
+
+username = "maitreyee"
+print(len(username))
