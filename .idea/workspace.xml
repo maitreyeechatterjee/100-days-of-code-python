@@ -16,7 +16,7 @@
         <entry key="$USER_HOME$/OneDrive/Documents/COLLEGE SEM/python_bootcamp" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/OneDrive/Documents/COLLEGE SEM/python_bootcamp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -164,6 +164,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -191,7 +192,7 @@
       <workItem from="1785770577109" duration="4661000" />
       <workItem from="1785938114896" duration="3857000" />
       <workItem from="1785945368794" duration="5559000" />
-      <workItem from="1786030262773" duration="2342000" />
+      <workItem from="1786030262773" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 code">
       <option name="closed" value="true" />
