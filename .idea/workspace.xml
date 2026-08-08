@@ -197,7 +197,7 @@
       <workItem from="1785945368794" duration="5559000" />
       <workItem from="1786030262773" duration="3279000" />
       <workItem from="1786110640686" duration="1873000" />
-      <workItem from="1786199935649" duration="1322000" />
+      <workItem from="1786199935649" duration="5319000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 code">
       <option name="closed" value="true" />
@@ -287,7 +287,23 @@
       <option name="project" value="LOCAL" />
       <updated>1786202166429</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Day 2 code">
+      <option name="closed" value="true" />
+      <created>1786202660197</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1786202660197</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Day 2 code">
+      <option name="closed" value="true" />
+      <created>1786206009665</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1786206009665</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +327,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Day 2 code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1786202104146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2/Tip Calculator Project" />
+    <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$task.coverage" NAME="task Coverage Results" MODIFIED="1786208855742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2/Tip Calculator Project" />
     <SUITE FILE_PATH="coverage/100_Days_of_Code___The_Complete_Python_Pro_Bootcamp$solution.coverage" NAME="solution Coverage Results" MODIFIED="1785954532038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2/Data Types" />
   </component>
 </project>
