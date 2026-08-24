@@ -1,0 +1,24 @@
+# import random
+# import my_module
+# random_integer = random.randint(1,10)
+# print(random_integer)
+# print(my_module.my_favorite_number)
+
+# import random
+# random_number_0_to_1 = random.random()
+# print(random_number_0_to_1)
+
+# import random
+# random_number_0_to_1 = random.random()
+# print(random_number_0_to_1)
+
+
+import random
+heads_or_tails = random.randint(0,1)
+print(heads_or_tails)
+if heads_or_tails == 0:
+    print("heads")
+else:
+    print("tails")
+
+
